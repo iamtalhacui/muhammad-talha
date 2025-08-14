@@ -20,11 +20,11 @@ const Section = () => {
             <button className="transition-all duration-400 cursor-pointer ease-in-out hover:scale-104 bg-[hsl(var(--background))] text-[hsl(var(--foreground))] hover:bg-[hsl(var(--primary))] hover:text-[hsl(var(--background))] rounded-lg   px-2 border-1 border-[hsl(var(--foreground))] font-bold">View Projects</button>
             <div className="flex gap-3 justify-center sm:justify-start sm:ml-10">
              < FaGithub   onClick={() => openLink("https://github.com/iamtalhacui")}
-             size={30} className="mt-1 text-blue-400  hover:text-[hsl(var(--primary))] transition-all duration-300 cursor-pointer ease-in-out hover:rotate-10 hover:scale-110"/>
+             size={30} className="mt-1 text-green-400  hover:text-[hsl(var(--primary))] transition-all duration-300 cursor-pointer ease-in-out hover:rotate-10 hover:scale-110"/>
               <FaLinkedin  onClick={() => openLink("https://www.linkedin.com/in/muhammad-talha-86662733b/")}
-               size={30} className="mt-1 text-blue-400  hover:text-[hsl(var(--primary))] transition-all duration-300 cursor-pointer ease-in-out hover:rotate-10 hover:scale-110"/>
-              <CiMail onClick={() => window.location.href = "mailto:muhammadtalha123445@gmail.com"}
-              size={30} className="mt-1 text-blue-400  hover:text-[hsl(var(--primary))] transition-all duration-300 cursor-pointer ease-in-out hover:rotate-10 hover:scale-110"/>
+               size={30} className="mt-1 text-green-400  hover:text-[hsl(var(--primary))] transition-all duration-300 cursor-pointer ease-in-out hover:rotate-10 hover:scale-110"/>
+              <CiMail onClick={() => window.location.href = "mailto:muhammadtalhaa123445@gmail.com"}
+              size={30} className="mt-1 text-green-400  hover:text-[hsl(var(--primary))] transition-all duration-300 cursor-pointer ease-in-out hover:rotate-10 hover:scale-110"/>
             </div>
          </div>
       </div>

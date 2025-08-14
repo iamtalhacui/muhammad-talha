@@ -3,24 +3,30 @@ import { ProjectCard } from '../components/ProjectCard';
 const page = () => {
     const projects = [
     {
-      title: "E-Tour Website",
-      description: "A front-end  projct with modern UI/UX, different places to visit , and hotels . Built with React and tailwind for optimal performance and beautifull UI.",
-      image: "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=500&h=300&fit=crop",
+      title: "E-Store Website",
+      description: "A Simple e-commerce UI built with React and Tailwind CSS, featuring modern design and smooth user experience.",
+      image: "/images/e-store.png",
       technologies: ["React", "TailwindCSS",],
+      liveUrl : "https://e-store-plum-chi.vercel.app",
+        githubUrl: "https://github.com/iamtalhacui/e-store",
       date: "2024"
     },
     {
-      title: "Task Management App",
-      description: "A collaborative project management tool with real-time updates, drag-and-drop functionality, and team collaboration features.",
-      image: "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=500&h=300&fit=crop",
-      technologies: ["Vue.js", "Firebase", "Tailwind"],
-      date: "2023"
+      title: "Code & Gym Website",
+      description: "Responsive gym landing page built with React and Tailwind CSS, featuring a clean layout and modern UI components.",
+      image: "/images/gym-site.png",
+      technologies: ["React.js", "Animations", "Tailwind"],
+      liveUrl: "https://https://gym-site-phi.vercel.app/",
+      githubUrl: "https://github.com/iamtalhacui/gym-site",
+      date: "2024"
     },
     {
-      title: "Weather Dashboard",
-      description: "Real-time weather tracking application with beautiful visualizations, forecasts, and location-based weather data.",
-      image: "https://images.unsplash.com/photo-1504608524841-42fe6f032b4b?w=500&h=300&fit=crop",
-      technologies: ["React", "Chart.js", "API"],
+      title: "Rock Paper Scissors",
+      description: "Classic browser game with interactive UI and score tracking, built using HTML, CSS, and JavaScript.",
+      image: "/images/rock-paper-scissor.png",
+      technologies: ["HTML", "CSS", "JavaScript"],
+      liveUrl: "https://rock-paper-scissor-livid-ten.vercel.app/",
+      githubUrl: "https://github.com/iamtalhacui/Rock-Paper-Scissor",
       date: "2023"
     },
   ];

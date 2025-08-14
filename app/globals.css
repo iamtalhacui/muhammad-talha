@@ -1,35 +1,38 @@
 @import "tailwindcss";
 :root, .theme-blue {
+  /* Keep original background */
   --background: 210 50% 98%;
-  --foreground: 215 25% 27%;
+  
+  /* Updated theme colors */
+  --foreground: 230 15% 25%;
   --card: 0 0% 100%;
-  --card-foreground: 215 25% 27%;
+  --card-foreground: 230 15% 25%;
   --popover: 0 0% 100%;
-  --popover-foreground: 215 25% 27%;
-  --primary: 220 70% 50%;
-  --primary-hover: 220 70% 45%;
-  --primary-foreground: 210 40% 98%;
-  --secondary: 210 40% 96.1%;
-  --secondary-foreground: 220 70% 40%;
-  --muted: 210 40% 96.1%;
-  --muted-foreground: 215 25% 40%;
-  --accent: 220 70% 50%;
-  --accent-foreground: 210 40% 98%;
-  --destructive: 0 84.2% 60.2%;
-  --destructive-foreground: 210 40% 98%;
-  --border: 214.3 31.8% 91.4%;
-  --input: 214.3 31.8% 91.4%;
-  --ring: 215 25% 27%;
-  --sidebar-background: 210 50% 98%;
-  --sidebar-foreground: 215 25% 40%;
-  --sidebar-primary: 220 70% 50%;
+  --popover-foreground: 230 15% 25%;
+  --primary: 160 84% 39%;
+  --primary-hover: 160 84% 34%;
+  --primary-foreground: 0 0% 100%;
+  --secondary: 150 30% 95%;
+  --secondary-foreground: 160 60% 30%;
+  --muted: 150 25% 94%;
+  --muted-foreground: 230 10% 45%;
+  --accent: 280 65% 60%;
+  --accent-foreground: 0 0% 100%;
+  --destructive: 348 83% 47%;
+  --destructive-foreground: 0 0% 100%;
+  --border: 150 20% 88%;
+  --input: 150 20% 88%;
+  --ring: 160 84% 39%;
+  --sidebar-background: 155 40% 96%;
+  --sidebar-foreground: 230 15% 35%;
+  --sidebar-primary: 160 84% 39%;
   --sidebar-primary-foreground: 0 0% 100%;
-  --sidebar-accent: 210 50% 95%;
-  --sidebar-accent-foreground: 215 25% 27%;
-  --sidebar-border: 214.3 31.8% 91.4%;
-  --sidebar-ring: 220 70% 50%;
-  --footer-background: hsl(215, 52.2%, 9%);
-  --codebg: hsl(0, 0%, 100%);
+  --sidebar-accent: 150 35% 92%;
+  --sidebar-accent-foreground: 230 15% 25%;
+  --sidebar-border: 150 20% 88%;
+  --sidebar-ring: 160 84% 39%;
+  --footer-background: hsl(230, 25%, 12%);
+  --codebg: hsl(155, 30%, 98%);
   --radius: .75rem;
 }
 
