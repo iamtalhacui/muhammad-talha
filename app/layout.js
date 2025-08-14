@@ -9,8 +9,8 @@ const firaSansCondensed = Fira_Sans_Condensed({
   variable: "--font-fira-sans-condensed",
 });
 export const metadata = {
-  title: "My Website",
-  description: "Using Fira Sans Condensed globally",
+  title: "Muhammad Talha | Portfolio Website",
+  description: "This is a protfolio website of Muhammad Talha",
 };
 
 export default function RootLayout({ children }) {

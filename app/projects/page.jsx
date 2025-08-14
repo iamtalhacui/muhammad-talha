@@ -16,7 +16,7 @@ const page = () => {
       description: "Responsive gym landing page built with React and Tailwind CSS, featuring a clean layout and modern UI components.",
       image: "/images/gym-site.png",
       technologies: ["React.js", "Animations", "Tailwind"],
-      liveUrl: "https://https://gym-site-phi.vercel.app/",
+      liveUrl: "https://gym-site-phi.vercel.app/",
       githubUrl: "https://github.com/iamtalhacui/gym-site",
       date: "2024"
     },
