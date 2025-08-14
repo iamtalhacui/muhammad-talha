@@ -3,13 +3,12 @@
   "homepage": "https://iamtalhacui.github.io/my-portfolio",
   "version": "0.1.0",
   "private": true,
-  "scripts": {
-    "dev": "next dev --turbopack",
-    "predeploy": "npm run build",
-     "deploy": "gh-pages -d dist",
+"scripts": {
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
     "lucide-react": "^0.539.0",
