@@ -8,7 +8,7 @@ const page = () => {
 
   const frontendSkills = [
     { icon: FaReact, label: "React JS", colorClass: "bg-blue-50 text-blue-800 border border-blue-300 hover:bg-blue-100" },
-    { icon: SiNextdotjs, label: "Next JS", colorClass: "bg-gray-50 text-gray-800 border border-gray-300 hover:bg-gray-100" },
+    { icon: FaJsSquare, label: "Javascript", colorClass: "bg-yellow-50 text-yellow-800 border border-yellow-300 hover:bg-yellow-100" },
     { icon: SiTailwindcss, label: "Tailwind CSS", colorClass: "bg-teal-50 text-teal-800 border border-teal-300 hover:bg-teal-100" },
     { icon: FaHtml5, label: "HTML5", colorClass: "bg-orange-50 text-orange-800 border border-orange-300 hover:bg-orange-100" },
     { icon: FaCss3Alt, label: "CSS3", colorClass: "bg-blue-50 text-blue-800 border border-blue-300 hover:bg-blue-100" }

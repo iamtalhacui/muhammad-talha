@@ -57,7 +57,7 @@ const Footer = () => {
                 <Github size={18} />
               </button>
               <button
-                onClick={() => openLink("https://www.linkedin.com/in/muhammad-talha-86662733b/")}
+                onClick={() => openLink("www.linkedin.com/in/m-talha-mern")}
                 className="bg-gray-100 hover:bg-[hsl(var(--primary))] text-gray-700 hover:text-white p-2.5 rounded-full transition-all duration-300 transform hover:scale-110 hover:shadow-md"
               >
                 <Linkedin size={18} />
@@ -69,7 +69,7 @@ const Footer = () => {
                 <Instagram size={18} />
               </button>
               <button
-                onClick={() => openLink("mailto:muhammadtalha123445@gmail.com")}
+                onClick={() => openLink("mailto:imtalha.dev@gmail.com")}
                 className="bg-gray-100 hover:bg-[hsl(var(--primary))] text-gray-700 hover:text-white p-2.5 rounded-full transition-all duration-300 transform hover:scale-110 hover:shadow-md"
               >
                 <Mail size={18} />
@@ -122,7 +122,7 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <Mail className="text-[hsl(var(--primary))] mt-0.5" size={16} />
                 <div>
-                  <p className="text-gray-600 text-sm">muhammadtalha123445@gmail.com</p>
+                  <p className="text-gray-600 text-sm">imtalha.dev@gmail.com</p>
                 </div>
               </div>
               <div className="flex items-start space-x-3">

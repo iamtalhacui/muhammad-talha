@@ -15,9 +15,9 @@ const page = () => {
                <h1 className='font-extrabold text-xl md:text-2xl text-[hsl(var(--foreground))] mt-3'>Muhammad Talha</h1>
                <p className='text-base md:text-lg text-gray-600'>Software Engineering Student</p>
                <div className='flex flex-wrap justify-center gap-2 mt-2'>
-                 <div className='rounded-xl h-7 px-2 border-1 border-black bg-gray-300 text-center pt-1 text-hsl[(var(--foreground))] font-semibold font-mono text-xs md:text-sm'>Next JS</div>
+                 <div className='rounded-xl h-7 px-2 border-1 border-black bg-gray-300 text-center pt-1 text-hsl[(var(--foreground))] font-semibold font-mono text-xs md:text-sm'>MERN Stack</div>
                  <div className='rounded-xl h-7 px-2 border-1 border-black bg-gray-300 text-center pt-1 text-hsl[(var(--foreground))] font-semibold font-mono text-xs md:text-sm'>Tailwind</div>
-                 <div className='rounded-xl h-7 px-2 border-1 border-black bg-gray-300 text-center pt-1 text-hsl[(var(--foreground))] font-semibold font-mono text-xs md:text-sm'>React</div>
+                 <div className='rounded-xl h-7 px-2 border-1 border-black bg-gray-300 text-center pt-1 text-hsl[(var(--foreground))] font-semibold font-mono text-xs md:text-sm'>Rest Apis</div>
                </div>
                <button className='transition-all duration-400 cursor-pointer ease-in-out hover:scale-104 bg-[hsl(var(--primary))] text-[hsl(var(--background))] rounded-xl mt-4 py-1 px-2 font-bold hover:bg-[hsl(var(--primary-hover))]'>Resume</button>
             </div>
@@ -28,7 +28,7 @@ const page = () => {
             <h1 className='text-[hsl(var(--primary))] font-bold text-xl md:text-2xl'> 
                Introduction
             </h1>
-            <span className='font-mono mt-3 text-sm md:text-base'>I'm  <span className=' font-bold text-base md:text-lg'>Muhammad Talha</span>, a passionate frontend developer   Always curious, always creating — on a journey to become a <span className=' font-bold text-base md:text-lg'>full-stack developer.!</span></span>
+            <span className='font-mono mt-3 text-sm md:text-base'>I'm  <span className=' font-bold text-base md:text-lg'>Muhammad Talha</span>, a passionate Full-Stack developer using MERN Stack Always curious, always creating — on a journey to work on exicting <span className=' font-bold text-base md:text-lg'>projects</span></span>
           <h1 className='text-[hsl(var(--primary))] font-bold text-xl md:text-2xl mt-3'> 
                Education
             </h1>

@@ -29,6 +29,7 @@ const page = () => {
       githubUrl: "https://github.com/iamtalhacui/Rock-Paper-Scissor",
       date: "2023"
     },
+    
   ];
   return (
     <div id='projects' className='h-screen w-full pt-20'>

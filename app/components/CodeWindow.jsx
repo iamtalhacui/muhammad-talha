@@ -79,11 +79,11 @@ const CodeWindow = ({ title = "developer.js", className = "", theme = "light" })
             <span className={currentTheme.propertyText}>skills</span>
             <span className={currentTheme.punctuationText}>:</span>{' '}
             <span className={currentTheme.punctuationText}>[</span>
-            <span className={currentTheme.stringText}>'React'</span>
+            <span className={currentTheme.stringText}>'MERN Stack'</span>
             <span className={currentTheme.punctuationText}>,</span>{' '}
             <span className={currentTheme.stringText}>'TailwindCSS'</span>
             <span className={currentTheme.punctuationText}>,</span>{' '}
-            <span className={currentTheme.stringText}>'Next.js'</span>
+            <span className={currentTheme.stringText}>'Rest API'</span>
             <span className={currentTheme.punctuationText}>],</span>
           </div>
           
@@ -101,7 +101,7 @@ const CodeWindow = ({ title = "developer.js", className = "", theme = "light" })
             <span className={currentTheme.propertyText}>learning</span>
             <span className={currentTheme.punctuationText}>:</span>{' '}
             <span className={currentTheme.punctuationText}>[</span>
-            <span className={currentTheme.stringText}>'Full-Stack'</span>
+            <span className={currentTheme.stringText}>'Next.js'</span>
             <span className={currentTheme.punctuationText}>,</span>{' '}
             <span className={currentTheme.stringText}>'Web Performance'</span>
             <span className={currentTheme.punctuationText}>],</span>

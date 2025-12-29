@@ -14,7 +14,7 @@ const Section = () => {
         <h1 className="text-3xl md:text-5xl  text-[hsl(var(--foreground))] font-extrabold">
             Muhammad <span className=" text-[hsl(var(--primary))]">Talha</span>
         </h1>
-        <span className=" text-[hsl(var(--foreground))] text-lg md:text-xl lg:text-2xl mt-2">A Frontend Developer & Passionate Software Engineering Student </span>
+        <span className=" text-[hsl(var(--foreground))] text-lg md:text-xl lg:text-2xl mt-2">A Full-Stack Web Developer & Passionate Software Engineering Student </span>
          <div className="mt-5 flex flex-col sm:flex-row gap-3">
             <button className="py-2  transition-all duration-400 cursor-pointer ease-in-out hover:scale-104 bg-[hsl(var(--primary))] text-[hsl(var(--background))] rounded-lg   px-2 font-bold hover:bg-[hsl(var(--primary-hover))]">Contact Me</button>
             <button className="transition-all duration-400 cursor-pointer ease-in-out hover:scale-104 bg-[hsl(var(--background))] text-[hsl(var(--foreground))] hover:bg-[hsl(var(--primary))] hover:text-[hsl(var(--background))] rounded-lg   px-2 border-1 border-[hsl(var(--foreground))] font-bold">View Projects</button>
