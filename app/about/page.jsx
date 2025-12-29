@@ -19,7 +19,6 @@ const page = () => {
                  <div className='rounded-xl h-7 px-2 border-1 border-black bg-gray-300 text-center pt-1 text-hsl[(var(--foreground))] font-semibold font-mono text-xs md:text-sm'>Tailwind</div>
                  <div className='rounded-xl h-7 px-2 border-1 border-black bg-gray-300 text-center pt-1 text-hsl[(var(--foreground))] font-semibold font-mono text-xs md:text-sm'>Rest Apis</div>
                </div>
-               <button className='transition-all duration-400 cursor-pointer ease-in-out hover:scale-104 bg-[hsl(var(--primary))] text-[hsl(var(--background))] rounded-xl mt-4 py-1 px-2 font-bold hover:bg-[hsl(var(--primary-hover))]'>Resume</button>
             </div>
         </div>
         
