@@ -160,11 +160,8 @@ const Footer = () => {
             
             {/* Copyright */}
             <div className="flex items-center space-x-2 text-sm text-gray-600">
-              <span>© {currentYear} Muhammad Talha. Made with</span>
-              <Heart className="text-red-500" size={14} fill="currentColor" />
-              <span>and</span>
-              <Coffee className="text-amber-600" size={14} />
-              <span>in Pakistan</span>
+              <span>© {currentYear} Muhammad Talha</span>
+      
             </div>
 
             {/* Back to Top */}
